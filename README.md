@@ -69,15 +69,6 @@ A reproducible analysis of public payroll data covering cleaning, SQL exploratio
 **B.Sc. in Computer Science & Engineering**  
 Daffodil International University
 
-## GitHub activity
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alif1642&show_icons=true&hide_title=true&hide_rank=true&theme=transparent" alt="Md. Alif Hossen's GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alif1642&layout=compact&theme=transparent&langs_count=8" alt="Most-used languages">
-</p>
-
-> Language statistics reflect repository code, not overall proficiency.
-
 ## Let's connect
 
 I am open to entry-level opportunities and collaborations in **Data Science, Machine Learning, Applied AI, and Data Analytics**.
