@@ -44,13 +44,11 @@ An end-to-end retail forecasting workflow built on M5 Walmart data. It uses leak
 
 `Python` `LightGBM` `Time Series` `FastAPI` `Streamlit` `Docker` `CI`
 
-### Real-Time Transaction Fraud Risk & Monitoring Platform
+### [Real-Time Transaction Fraud Risk & Monitoring Platform](https://github.com/Alif1642/real-time-fraud-risk-platform)
 
 A transaction-risk platform designed for real-time scoring, threshold-based decisions, SHAP explanations, experiment tracking, drift monitoring, API serving, and an analyst-facing dashboard.
 
 `Python` `Machine Learning` `FastAPI` `MLflow` `Evidently` `SHAP` `PostgreSQL` `Docker`
-
-> Add the repository link here after confirming its exact GitHub URL.
 
 ### [AI-Based Real-Time Traffic Violation Detection](https://github.com/Alif1642/ai-traffic-violation-detection)
 
